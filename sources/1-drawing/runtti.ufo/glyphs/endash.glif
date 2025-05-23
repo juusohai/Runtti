@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="551"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="31" y="212" type="line"/>
+      <point x="-46" y="278" type="line"/>
+      <point x="337" y="284" type="line"/>
+      <point x="597" y="280" type="line"/>
+      <point x="505" y="213" type="line"/>
+      <point x="519" y="423" type="line"/>
+      <point x="605" y="374" type="line"/>
+      <point x="291" y="372" type="line"/>
+      <point x="-58" y="378" type="line"/>
+      <point x="45" y="423" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen</string>
+    </dict>
+  </lib>
+</glyph>

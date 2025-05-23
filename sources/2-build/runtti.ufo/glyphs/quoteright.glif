@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="250"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="159" y="632" type="line"/>
+      <point x="109" y="658" type="line"/>
+      <point x="99" y="491" type="line"/>
+      <point x="72" y="557" type="line"/>
+      <point x="196" y="541" type="line"/>
+      <point x="151" y="484" type="line"/>
+      <point x="230" y="813" type="line"/>
+      <point x="272" y="712" type="line"/>
+      <point x="162" y="856" type="line"/>
+      <point x="221" y="791" type="line"/>
+      <point x="-9" y="790" type="line"/>
+      <point x="43" y="823" type="line"/>
+      <point x="33" y="585" type="line"/>
+      <point x="-7" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=35</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=28</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,468 @@
+{
+.appVersion = "3414";
+.formatVersion = 3;
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2025-05-21 20:36:55 +0000";
+familyName = Runtti;
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1046;
+},
+{
+name = typoDescender;
+value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 1046;
+},
+{
+name = hheaDescender;
+value = -275;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1046;
+},
+{
+name = winDescent;
+value = 275;
+}
+);
+id = m01;
+metricValues = (
+{
+over = 30;
+pos = 790;
+},
+{
+over = 30;
+pos = 1046;
+},
+{
+over = 30;
+pos = 600;
+},
+{
+over = -30;
+},
+{
+over = -30;
+pos = -275;
+},
+{
+pos = 820;
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 10;
+};
+}
+);
+kerningLTR = {
+m01 = {
+"@MMK_L_7" = {
+"@MMK_R_0" = -14;
+"@MMK_R_1" = 25;
+"@MMK_R_4" = -12;
+};
+"@MMK_L_A" = {
+"@MMK_R_C" = -8;
+"@MMK_R_E" = -8;
+"@MMK_R_T" = -12;
+"@MMK_R_n" = -12;
+"@MMK_R_quoteright" = -38;
+};
+"@MMK_L_B" = {
+"@MMK_R_period" = -20;
+"@MMK_R_quoteright" = -18;
+};
+"@MMK_L_C" = {
+"@MMK_R_C" = -14;
+"@MMK_R_E" = -11;
+"@MMK_R_O" = -8;
+"@MMK_R_h" = 12;
+"@MMK_R_quoteright" = 20;
+};
+"@MMK_L_E" = {
+"@MMK_R_C" = -12;
+"@MMK_R_O" = -18;
+"@MMK_R_h" = 12;
+"@MMK_R_idieresis" = 48;
+"@MMK_R_n" = -15;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_z" = 12;
+};
+"@MMK_L_F" = {
+"@MMK_R_E" = -8;
+"@MMK_R_J" = -15;
+"@MMK_R_h" = 12;
+"@MMK_R_idieresis" = 48;
+"@MMK_R_n" = -20;
+"@MMK_R_period" = -85;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_s" = -33;
+"@MMK_R_u" = -24;
+"@MMK_R_z" = -22;
+};
+"@MMK_L_G" = {
+"@MMK_R_quoteright" = -38;
+};
+"@MMK_L_H" = {
+"@MMK_R_E" = -6;
+"@MMK_R_n" = -12;
+"@MMK_R_quoteright" = -35;
+};
+"@MMK_L_I" = {
+"@MMK_R_C" = -10;
+"@MMK_R_period" = -38;
+"@MMK_R_quoteright" = -20;
+};
+"@MMK_L_Idieresis" = {
+"@MMK_R_Idieresis" = 54;
+"@MMK_R_Imacron" = 32;
+};
+"@MMK_L_Imacron" = {
+"@MMK_R_Idieresis" = 52;
+};
+"@MMK_L_J" = {
+"@MMK_R_E" = -12;
+"@MMK_R_Z" = -18;
+"@MMK_R_quoteright" = -20;
+};
+"@MMK_L_K" = {
+"@MMK_R_quoteright" = -12;
+};
+"@MMK_L_L" = {
+"@MMK_R_B" = -18;
+"@MMK_R_H" = -18;
+"@MMK_R_O" = -5;
+"@MMK_R_T" = -35;
+"@MMK_R_quoteright" = -64;
+};
+"@MMK_L_Lcaron" = {
+"@MMK_R_A" = 64;
+"@MMK_R_B" = 18;
+"@MMK_R_H" = 64;
+"@MMK_R_J" = 15;
+"@MMK_R_O" = -5;
+"@MMK_R_T" = 74;
+"@MMK_R_U" = 35;
+"@MMK_R_X" = 50;
+"@MMK_R_Y" = 50;
+"@MMK_R_Z" = 24;
+};
+"@MMK_L_O" = {
+"@MMK_R_B" = -6;
+"@MMK_R_Z" = -22;
+"@MMK_R_period" = -40;
+"@MMK_R_quoteright" = -14;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_P" = {
+"@MMK_R_quoteright" = -6;
+"@MMK_R_s" = -6;
+};
+"@MMK_L_Q" = {
+"@MMK_R_quoteright" = -18;
+};
+"@MMK_L_R" = {
+"@MMK_R_quoteright" = -10;
+};
+"@MMK_L_S" = {
+"@MMK_R_n" = -14;
+"@MMK_R_p" = -14;
+"@MMK_R_period" = -20;
+"@MMK_R_quoteright" = -35;
+};
+"@MMK_L_T" = {
+"@MMK_R_n" = -46;
+"@MMK_R_period" = -95;
+"@MMK_R_x" = -20;
+};
+"@MMK_L_U" = {
+"@MMK_R_quoteright" = -38;
+};
+"@MMK_L_X" = {
+"@MMK_R_quoteright" = -12;
+};
+"@MMK_L_Z" = {
+"@MMK_R_quoteright" = -27;
+};
+"@MMK_L_a" = {
+"@MMK_R_h" = -14;
+"@MMK_R_n" = -6;
+"@MMK_R_quoteright" = -68;
+};
+"@MMK_L_c" = {
+"@MMK_R_o" = -6;
+"@MMK_R_quoteright" = 14;
+};
+"@MMK_L_e" = {
+"@MMK_R_a" = -4;
+"@MMK_R_h" = -12;
+"@MMK_R_o" = -12;
+"@MMK_R_period" = -35;
+"@MMK_R_quoteright" = -36;
+};
+"@MMK_L_f" = {
+"@MMK_R_o" = -35;
+"@MMK_R_period" = -64;
+"@MMK_R_quoteright" = 4;
+"@MMK_R_t" = -8;
+"@MMK_R_u" = -15;
+};
+"@MMK_L_g" = {
+"@MMK_R_h" = -12;
+"@MMK_R_quoteright" = -38;
+};
+"@MMK_L_i" = {
+"@MMK_R_quoteright" = -5;
+"@MMK_R_x" = 16;
+};
+"@MMK_L_idieresis" = {
+"@MMK_R_h" = 32;
+"@MMK_R_idieresis" = 45;
+};
+"@MMK_L_j" = {
+"@MMK_R_o" = -4;
+"@MMK_R_quoteright" = -5;
+};
+"@MMK_L_k" = {
+"@MMK_R_h" = -9;
+"@MMK_R_quoteright" = -66;
+};
+"@MMK_L_l" = {
+"@MMK_R_i" = -4;
+"@MMK_R_j" = -4;
+"@MMK_R_n" = -8;
+"@MMK_R_p" = -8;
+"@MMK_R_quoteright" = -48;
+"@MMK_R_u" = -5;
+"@MMK_R_v" = -18;
+};
+"@MMK_L_lcaron" = {
+"@MMK_R_h" = 145;
+"@MMK_R_i" = 72;
+"@MMK_R_j" = 72;
+"@MMK_R_t" = 55;
+};
+"@MMK_L_n" = {
+"@MMK_R_colon" = -13;
+"@MMK_R_o" = -12;
+"@MMK_R_period" = -18;
+"@MMK_R_quoteright" = -64;
+"@MMK_R_t" = -8;
+quoteright = -66;
+};
+"@MMK_L_o" = {
+"@MMK_R_period" = -38;
+"@MMK_R_quoteright" = -68;
+"@MMK_R_u" = -12;
+};
+"@MMK_L_p" = {
+"@MMK_R_period" = -30;
+"@MMK_R_quoteright" = -45;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A" = -18;
+"@MMK_R_B" = -28;
+"@MMK_R_C" = -66;
+"@MMK_R_E" = -56;
+"@MMK_R_H" = -16;
+"@MMK_R_J" = -65;
+"@MMK_R_O" = -48;
+"@MMK_R_S" = -75;
+"@MMK_R_U" = -43;
+"@MMK_R_X" = -25;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -54;
+"@MMK_R_a" = -58;
+"@MMK_R_h" = -4;
+"@MMK_R_i" = -20;
+"@MMK_R_j" = -20;
+"@MMK_R_n" = -62;
+"@MMK_R_o" = -86;
+"@MMK_R_s" = -90;
+"@MMK_R_t" = -16;
+"@MMK_R_u" = -48;
+"@MMK_R_x" = -40;
+};
+"@MMK_L_r" = {
+"@MMK_R_a" = -10;
+"@MMK_R_h" = -4;
+"@MMK_R_o" = -22;
+"@MMK_R_period" = -64;
+quoteright = 6;
+};
+"@MMK_L_s" = {
+"@MMK_R_quoteright" = -36;
+};
+"@MMK_L_t" = {
+"@MMK_R_a" = -6;
+"@MMK_R_colon" = -15;
+"@MMK_R_h" = -6;
+"@MMK_R_o" = -7;
+"@MMK_R_period" = -34;
+"@MMK_R_quoteright" = -2;
+"@MMK_R_z" = -4;
+};
+"@MMK_L_u" = {
+"@MMK_R_h" = -12;
+"@MMK_R_p" = -6;
+"@MMK_R_quoteright" = -42;
+"@MMK_R_t" = -5;
+"@MMK_R_v" = -8;
+};
+"@MMK_L_v" = {
+"@MMK_R_h" = -10;
+"@MMK_R_o" = -8;
+"@MMK_R_quoteright" = -8;
+};
+"@MMK_L_x" = {
+"@MMK_R_h" = -8;
+"@MMK_R_quoteright" = -14;
+};
+"@MMK_L_y" = {
+"@MMK_R_h" = -12;
+"@MMK_R_quoteright" = -18;
+};
+F = {
+a = -26;
+e = -16;
+o = -29;
+};
+K = {
+v = -8;
+w = -8;
+};
+L = {
+V = -4;
+Y = -28;
+};
+P = {
+a = -26;
+};
+T = {
+a = -40;
+e = -46;
+i = -8;
+o = -56;
+r = -42;
+s = -56;
+u = -16;
+y = -16;
+};
+V = {
+a = -16;
+};
+W = {
+a = -16;
+};
+seven = {
+"@MMK_R_8" = -20;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+name = ascender_area;
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Juuso Haimilahti 2025";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Juuso Haimilahti";
+}
+);
+},
+{
+key = designerURL;
+value = "https://juusohaimilahti.com";
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
+key = postscriptFontName;
+value = RunttiRegular;
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Runtti Regular";
+}
+);
+},
+{
+key = sampleTexts;
+values = (
+{
+language = ENG;
+value = "ABCDE abcde 12345 ...?!";
+}
+);
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

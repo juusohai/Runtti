@@ -1,0 +1,19 @@
+{
+glyphname = braceright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (338,714);
+ref = braceleft;
+}
+);
+width = 338;
+}
+);
+metricLeft = "=|braceleft";
+metricRight = "=|braceleft";
+unicode = 125;
+}

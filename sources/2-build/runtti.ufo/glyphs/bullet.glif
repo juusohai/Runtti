@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="245"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="37" y="410" type="line"/>
+      <point x="35" y="247" type="line"/>
+      <point x="8" y="283" type="line"/>
+      <point x="152" y="224" type="line"/>
+      <point x="117" y="222" type="line"/>
+      <point x="231" y="279" type="line"/>
+      <point x="199" y="243" type="line"/>
+      <point x="212" y="409" type="line"/>
+      <point x="231" y="372" type="line"/>
+      <point x="90" y="432" type="line"/>
+      <point x="135" y="435" type="line"/>
+      <point x="8" y="371" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=35</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=35</string>
+    </dict>
+  </lib>
+</glyph>

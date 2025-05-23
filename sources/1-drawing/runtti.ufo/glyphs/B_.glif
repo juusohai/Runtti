@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="666"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="557" y="612" type="line"/>
+      <point x="206" y="389" type="line"/>
+      <point x="222" y="431" type="line"/>
+      <point x="266" y="283" type="line"/>
+      <point x="222" y="293" type="line"/>
+      <point x="311" y="345" type="line"/>
+      <point x="422" y="417" type="line"/>
+      <point x="672" y="563" type="line"/>
+      <point x="576" y="446" type="line"/>
+      <point x="650" y="744" type="line"/>
+      <point x="737" y="663" type="line"/>
+      <point x="290" y="835" type="line"/>
+      <point x="361" y="837" type="line"/>
+      <point x="181" y="620" type="line"/>
+      <point x="167" y="648" type="line"/>
+      <point x="518" y="580" type="line"/>
+      <point x="434" y="678" type="line"/>
+      <point x="425" y="464" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="-43" type="line"/>
+      <point x="18" y="52" type="line"/>
+      <point x="464" y="-41" type="line"/>
+      <point x="317" y="-63" type="line"/>
+      <point x="737" y="173" type="line"/>
+      <point x="579" y="-52" type="line"/>
+      <point x="636" y="446" type="line"/>
+      <point x="730" y="376" type="line"/>
+      <point x="413" y="476" type="line"/>
+      <point x="489" y="488" type="line"/>
+      <point x="263" y="335" type="line"/>
+      <point x="263" y="340" type="line"/>
+      <point x="514" y="284" type="line"/>
+      <point x="422" y="350" type="line"/>
+      <point x="420" y="79" type="line"/>
+      <point x="453" y="201" type="line"/>
+      <point x="368" y="138" type="line"/>
+      <point x="511" y="159" type="line"/>
+      <point x="221" y="168" type="line"/>
+      <point x="264" y="116" type="line"/>
+      <point x="285" y="767" type="line"/>
+      <point x="340" y="703" type="line"/>
+      <point x="76" y="835" type="line"/>
+      <point x="141" y="859" type="line"/>
+      <point x="13" y="627" type="line"/>
+      <point x="-20" y="651" type="line"/>
+      <point x="166" y="600" type="line"/>
+      <point x="105" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>R</string>
+    </dict>
+  </lib>
+</glyph>

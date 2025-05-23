@@ -1,0 +1,21 @@
+{
+glyphname = utilde;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (143,0);
+ref = tildecomb;
+}
+);
+width = 661;
+}
+);
+unicode = 361;
+}

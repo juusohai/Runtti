@@ -1,0 +1,35 @@
+{
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (176,600);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(68,874,l),
+(35,782,l),
+(24,854,l),
+(231,614,l),
+(131,646,l),
+(287,711,l),
+(280,643,l),
+(176,887,l),
+(218,850,l),
+(26,830,l)
+);
+}
+);
+width = 306;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 768;
+}

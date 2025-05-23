@@ -1,0 +1,33 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (133,600);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,869,l),
+(277,836,l),
+(6,830,l),
+(58,863,l),
+(48,625,l),
+(8,673,l),
+(244,665,l),
+(206,621,l)
+);
+}
+);
+width = 288;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 775;
+}

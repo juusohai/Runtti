@@ -1,0 +1,21 @@
+{
+glyphname = cacute;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (153,0);
+ref = acutecomb;
+}
+);
+width = 481;
+}
+);
+unicode = 263;
+}

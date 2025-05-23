@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="744"/>
+  <unicode hex="004E"/>
+  <anchor x="346" y="0" name="bottom"/>
+  <anchor x="442" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="456" y="318" type="line"/>
+      <point x="503" y="276" type="line"/>
+      <point x="473" y="388" type="line"/>
+      <point x="309" y="835" type="line"/>
+      <point x="379" y="790" type="line"/>
+      <point x="-36" y="793" type="line"/>
+      <point x="38" y="842" type="line"/>
+      <point x="19" y="548" type="line"/>
+      <point x="-64" y="593" type="line"/>
+      <point x="158" y="613" type="line"/>
+      <point x="107" y="696" type="line"/>
+      <point x="41" y="-83" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="249" y="-83" type="line"/>
+      <point x="272" y="517" type="line"/>
+      <point x="243" y="481" type="line"/>
+      <point x="304" y="481" type="line"/>
+      <point x="264" y="506" type="line"/>
+      <point x="290" y="436" type="line"/>
+      <point x="497" y="-54" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="641" y="-83" type="line"/>
+      <point x="718" y="844" type="line"/>
+      <point x="738" y="790" type="line"/>
+      <point x="458" y="790" type="line"/>
+      <point x="508" y="878" type="line"/>
+      <point x="493" y="284" type="line"/>
+      <point x="523" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="481"/>
+  <unicode hex="0063"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="283" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="493" y="411" type="line"/>
+      <point x="427" y="386" type="line"/>
+      <point x="496" y="672" type="line"/>
+      <point x="535" y="589" type="line"/>
+      <point x="192" y="622" type="line"/>
+      <point x="358" y="658" type="line"/>
+      <point x="-35" y="468" type="line"/>
+      <point x="84" y="608" type="line"/>
+      <point x="33" y="5" type="line"/>
+      <point x="-8" y="104" type="line"/>
+      <point x="322" y="-40" type="line"/>
+      <point x="145" y="-10" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="436" y="-32" type="line"/>
+      <point x="429" y="210" type="line"/>
+      <point x="463" y="183" type="line"/>
+      <point x="257" y="158" type="line"/>
+      <point x="375" y="148" type="line"/>
+      <point x="189" y="182" type="line"/>
+      <point x="220" y="109" type="line"/>
+      <point x="230" y="477" type="line"/>
+      <point x="186" y="414" type="line"/>
+      <point x="287" y="471" type="line"/>
+      <point x="206" y="458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

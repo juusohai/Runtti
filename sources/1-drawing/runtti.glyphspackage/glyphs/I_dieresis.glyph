@@ -1,0 +1,23 @@
+{
+glyphname = Idieresis;
+kernLeft = Idieresis;
+kernRight = Idieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-64,190);
+ref = dieresiscomb.alt;
+}
+);
+width = 326;
+}
+);
+unicode = 207;
+}

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="536"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="330" y="145" type="line"/>
+      <point x="129" y="188" type="line"/>
+      <point x="211" y="146" type="line"/>
+      <point x="221" y="343" type="line"/>
+      <point x="88" y="210" type="line"/>
+      <point x="389" y="377" type="line"/>
+      <point x="375" y="440" type="line"/>
+      <point x="-31" y="238" type="line"/>
+      <point x="71" y="309" type="line"/>
+      <point x="-3" y="40" type="line"/>
+      <point x="-95" y="132" type="line"/>
+      <point x="317" y="-47" type="line"/>
+      <point x="180" y="-56" type="line"/>
+      <point x="573" y="132" type="line"/>
+      <point x="454" y="-8" type="line"/>
+      <point x="502" y="595" type="line"/>
+      <point x="545" y="496" type="line"/>
+      <point x="215" y="640" type="line"/>
+      <point x="391" y="610" type="line"/>
+      <point x="7" y="600" type="line"/>
+      <point x="60" y="632" type="line"/>
+      <point x="67" y="390" type="line"/>
+      <point x="33" y="417" type="line"/>
+      <point x="252" y="443" type="line"/>
+      <point x="160" y="452" type="line"/>
+      <point x="346" y="418" type="line"/>
+      <point x="315" y="491" type="line"/>
+      <point x="305" y="123" type="line"/>
+      <point x="349" y="185" type="line"/>
+      <point x="248" y="128" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|o</string>
+    </dict>
+  </lib>
+</glyph>

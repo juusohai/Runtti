@@ -1,0 +1,23 @@
+{
+glyphname = quotedblright;
+kernLeft = quoteright;
+kernRight = quoteright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quoteright;
+},
+{
+pos = (217,0);
+ref = quoteright;
+}
+);
+width = 467;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+}

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="326"/>
+  <unicode hex="0049"/>
+  <anchor x="168" y="0" name="ogonek"/>
+  <anchor x="195" y="790" name="top"/>
+  <outline>
+    <contour>
+      <point x="247" y="-83" type="line"/>
+      <point x="301" y="844" type="line"/>
+      <point x="344" y="705" type="line"/>
+      <point x="230" y="845" type="line"/>
+      <point x="329" y="790" type="line"/>
+      <point x="-36" y="793" type="line"/>
+      <point x="38" y="842" type="line"/>
+      <point x="19" y="548" type="line"/>
+      <point x="-64" y="593" type="line"/>
+      <point x="158" y="613" type="line"/>
+      <point x="107" y="696" type="line"/>
+      <point x="37" y="-83" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+{
+glyphname = section;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (627,640);
+ref = sectionbowl;
+},
+{
+alignment = -1;
+pos = (25,0);
+ref = sectionbowl;
+}
+);
+width = 652;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 167;
+}

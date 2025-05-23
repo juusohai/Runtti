@@ -1,0 +1,29 @@
+{
+glyphname = emdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-46,278,l),
+(437,284,l),
+(807,280,l),
+(715,213,l),
+(729,423,l),
+(815,374,l),
+(391,372,l),
+(-58,378,l),
+(45,423,l),
+(31,212,l)
+);
+}
+);
+width = 761;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8212;
+}

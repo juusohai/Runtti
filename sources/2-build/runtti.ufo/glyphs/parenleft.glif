@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="293"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="-12" y="472" type="line"/>
+      <point x="37" y="604" type="line"/>
+      <point x="35" y="135" type="line"/>
+      <point x="-12" y="253" type="line"/>
+      <point x="193" y="-176" type="line"/>
+      <point x="118" y="-153" type="line"/>
+      <point x="310" y="-59" type="line"/>
+      <point x="283" y="-112" type="line"/>
+      <point x="93" y="249" type="line"/>
+      <point x="124" y="135" type="line"/>
+      <point x="138" y="597" type="line"/>
+      <point x="80" y="462" type="line"/>
+      <point x="292" y="817" type="line"/>
+      <point x="318" y="759" type="line"/>
+      <point x="114" y="876" type="line"/>
+      <point x="207" y="885" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=35</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=20</string>
+    </dict>
+  </lib>
+</glyph>

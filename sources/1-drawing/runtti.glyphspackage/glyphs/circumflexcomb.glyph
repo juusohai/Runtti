@@ -1,0 +1,25 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (180,600);
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (366,1501);
+ref = caroncomb;
+}
+);
+width = 366;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 770;
+}

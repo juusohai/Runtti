@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="section" format="2">
+  <advance width="652"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <component base="sectionbowl" xScale="-1" yScale="-1" xOffset="627" yOffset="640" identifier="C14A647E"/>
+    <component base="sectionbowl" xOffset="25" identifier="AFF1F906"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AFF1F906</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C14A647E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

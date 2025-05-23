@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="518"/>
+  <unicode hex="030B"/>
+  <anchor x="215" y="600" name="_top"/>
+  <outline>
+    <contour>
+      <point x="497" y="831" type="line"/>
+      <point x="305" y="845" type="line"/>
+      <point x="347" y="885" type="line"/>
+      <point x="225" y="637" type="line"/>
+      <point x="214" y="696" type="line"/>
+      <point x="394" y="649" type="line"/>
+      <point x="284" y="608" type="line"/>
+      <point x="493" y="853" type="line"/>
+      <point x="482" y="783" type="line"/>
+      <point x="450" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="831" type="line"/>
+      <point x="106" y="845" type="line"/>
+      <point x="148" y="885" type="line"/>
+      <point x="26" y="637" type="line"/>
+      <point x="15" y="696" type="line"/>
+      <point x="195" y="649" type="line"/>
+      <point x="85" y="608" type="line"/>
+      <point x="294" y="853" type="line"/>
+      <point x="283" y="783" type="line"/>
+      <point x="251" y="875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

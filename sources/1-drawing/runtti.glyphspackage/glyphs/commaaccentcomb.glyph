@@ -1,0 +1,35 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (143,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,-74,l),
+(75,-35,l),
+(44,-305,l),
+(23,-247,l),
+(190,-271,l),
+(99,-320,l),
+(231,-50,l),
+(231,-124,l),
+(189,-35,l),
+(241,-74,l)
+);
+}
+);
+width = 263;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 806;
+}

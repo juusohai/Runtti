@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="366"/>
+  <unicode hex="0302"/>
+  <anchor x="180" y="600" name="_top"/>
+  <outline>
+    <component base="caroncomb" xScale="-1" yScale="-1" xOffset="366" yOffset="1501"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

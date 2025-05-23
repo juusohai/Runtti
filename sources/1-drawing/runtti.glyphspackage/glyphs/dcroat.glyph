@@ -1,0 +1,20 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = d;
+},
+{
+alignment = -1;
+pos = (231,-29);
+ref = macroncomb;
+}
+);
+width = 613;
+}
+);
+unicode = 273;
+}
