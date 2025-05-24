@@ -2,6 +2,8 @@
 
 Short description of Demo Font. Read more about this [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
 
+Runtti is a somewhat slanted display typeface inspired by Carolingian minuscule's and textura's letterforms.
+
 ## Specimen
 
 ![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/Unified-Font-Repository/master/documentation/images/Demo-Italic-v1.001-specimen-001.png)
