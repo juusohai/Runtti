@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m" format="2">
-  <advance width="964"/>
+  <advance width="961"/>
   <unicode hex="006D"/>
   <anchor x="498" y="600" name="top"/>
   <outline>
@@ -55,6 +55,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:06:06 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

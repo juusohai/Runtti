@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown" format="2">
-  <advance width="452"/>
+  <advance width="463"/>
   <unicode hex="00BF"/>
   <outline>
     <contour>
@@ -50,6 +50,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:20:09 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|question</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

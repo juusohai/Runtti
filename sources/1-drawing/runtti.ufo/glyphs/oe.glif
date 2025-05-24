@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="843"/>
+  <advance width="853"/>
   <unicode hex="0153"/>
   <outline>
     <contour>
@@ -60,6 +60,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:20:09 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

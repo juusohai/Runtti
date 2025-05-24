@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="2">
-  <advance width="481"/>
+  <advance width="497"/>
   <unicode hex="0063"/>
   <anchor x="233" y="0" name="bottom"/>
   <anchor x="283" y="600" name="top"/>
@@ -34,6 +34,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:12:32 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
     </dict>
