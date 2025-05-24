@@ -435,9 +435,7 @@
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
-      <string>Eth</string>
       <string>Germandbls</string>
-      <string>eth</string>
       <string>eturned</string>
       <string>germandbls</string>
       <string>sectionbowl</string>

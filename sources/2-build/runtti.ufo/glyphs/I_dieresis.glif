@@ -3,19 +3,19 @@
   <advance width="326"/>
   <unicode hex="00CF"/>
   <outline>
-    <component base="I" identifier="9297A6E4"/>
-    <component base="dieresiscomb.alt" xOffset="-64" yOffset="190" identifier="8191E3B5"/>
+    <component base="I" identifier="B18F9FBB"/>
+    <component base="dieresiscomb.alt" xOffset="-64" yOffset="190" identifier="22AA42C3"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8191E3B5</key>
+        <key>22AA42C3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9297A6E4</key>
+        <key>B18F9FBB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

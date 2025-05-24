@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="613"/>
+  <advance width="615"/>
   <unicode hex="0111"/>
   <outline>
     <component base="d"/>
-    <component base="macroncomb" xOffset="231" yOffset="-29" identifier="2119717E"/>
+    <component base="macroncomb" xOffset="231" yOffset="-29" identifier="570491B5"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2119717E</key>
+        <key>570491B5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

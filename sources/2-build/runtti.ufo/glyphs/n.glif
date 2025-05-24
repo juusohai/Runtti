@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n" format="2">
-  <advance width="661"/>
+  <advance width="658"/>
   <unicode hex="006E"/>
   <anchor x="303" y="0" name="bottom"/>
   <anchor x="351" y="600" name="top"/>
@@ -40,4 +40,10 @@
       <point x="298" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:12:07 +0000</string>
+    </dict>
+  </lib>
 </glyph>

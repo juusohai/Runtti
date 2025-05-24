@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thorn" format="2">
-  <advance width="604"/>
+  <advance width="606"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
@@ -48,6 +48,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-24 15:20:09 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

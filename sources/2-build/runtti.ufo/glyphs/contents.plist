@@ -64,6 +64,8 @@
     <string>E_macron.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
+    <key>Eth</key>
+    <string>E_th.glif</string>
     <key>Etilde</key>
     <string>E_tilde.glif</string>
     <key>F</key>
@@ -356,6 +358,8 @@
     <string>endash.glif</string>
     <key>eogonek</key>
     <string>eogonek.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>etilde</key>
     <string>etilde.glif</string>
     <key>exclam</key>

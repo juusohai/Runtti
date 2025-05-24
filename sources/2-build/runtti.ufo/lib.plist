@@ -11,7 +11,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <false/>
+    <true/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>public.glyphOrder</key>
@@ -132,6 +132,8 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Eth</string>
+      <string>Germandbls</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -250,6 +252,9 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
+      <string>eth</string>
+      <string>eturned</string>
+      <string>germandbls</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -327,6 +332,7 @@
       <string>ogonekcomb</string>
       <string>dieresiscomb.alt</string>
       <string>ogonekcomb.alt</string>
+      <string>sectionbowl</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -336,6 +342,8 @@
       <string>uni1EBC</string>
       <key>Gcommaaccent</key>
       <string>uni0122</string>
+      <key>Germandbls</key>
+      <string>uni1E9E</string>
       <key>Jacute</key>
       <string>uni004A0301</string>
       <key>Kcommaaccent</key>
@@ -380,6 +388,8 @@
       <string>uni0307</string>
       <key>etilde</key>
       <string>uni1EBD</string>
+      <key>eturned</key>
+      <string>uni01DD</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
       <key>guillemetleft</key>
