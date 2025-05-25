@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="670"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="218" y="308" type="line"/>
+      <point x="170" y="195" type="line"/>
+      <point x="499" y="67" type="line"/>
+      <point x="270" y="41" type="line"/>
+      <point x="695" y="241" type="line"/>
+      <point x="612" y="106" type="line"/>
+      <point x="665" y="741" type="line"/>
+      <point x="715" y="592" type="line"/>
+      <point x="293" y="707" type="line"/>
+      <point x="375" y="706" type="line"/>
+      <point x="193" y="503" type="line"/>
+      <point x="170" y="514" type="line"/>
+      <point x="503" y="481" type="line"/>
+      <point x="450" y="645" type="line"/>
+      <point x="446" y="237" type="line"/>
+      <point x="482" y="329" type="line"/>
+      <point x="399" y="264" type="line"/>
+      <point x="503" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="186" type="line"/>
+      <point x="268" y="274" type="line"/>
+      <point x="280" y="550" type="line"/>
+      <point x="327" y="597" type="line"/>
+      <point x="241" y="612" type="line"/>
+      <point x="276" y="568" type="line"/>
+      <point x="301" y="844" type="line"/>
+      <point x="344" y="705" type="line"/>
+      <point x="230" y="845" type="line"/>
+      <point x="329" y="790" type="line"/>
+      <point x="-36" y="793" type="line"/>
+      <point x="38" y="842" type="line"/>
+      <point x="19" y="548" type="line"/>
+      <point x="-64" y="593" type="line"/>
+      <point x="158" y="613" type="line"/>
+      <point x="107" y="696" type="line"/>
+      <point x="37" y="-83" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="256" y="-40" type="line"/>
+      <point x="264" y="247" type="line"/>
+      <point x="220" y="131" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-25 12:16:52 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>P</string>
+    </dict>
+  </lib>
+</glyph>

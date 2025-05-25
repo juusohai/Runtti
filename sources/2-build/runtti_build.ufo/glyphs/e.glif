@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="536"/>
+  <unicode hex="0065"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="404" y="0" name="ogonek"/>
+  <anchor x="273" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="196" y="455" type="line"/>
+      <point x="397" y="412" type="line"/>
+      <point x="315" y="454" type="line"/>
+      <point x="305" y="257" type="line"/>
+      <point x="438" y="390" type="line"/>
+      <point x="137" y="223" type="line"/>
+      <point x="151" y="160" type="line"/>
+      <point x="557" y="362" type="line"/>
+      <point x="455" y="291" type="line"/>
+      <point x="529" y="560" type="line"/>
+      <point x="621" y="468" type="line"/>
+      <point x="209" y="647" type="line"/>
+      <point x="346" y="656" type="line"/>
+      <point x="-47" y="468" type="line"/>
+      <point x="72" y="608" type="line"/>
+      <point x="24" y="5" type="line"/>
+      <point x="-19" y="104" type="line"/>
+      <point x="311" y="-40" type="line"/>
+      <point x="135" y="-10" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="466" y="-32" type="line"/>
+      <point x="459" y="210" type="line"/>
+      <point x="493" y="183" type="line"/>
+      <point x="274" y="157" type="line"/>
+      <point x="366" y="148" type="line"/>
+      <point x="180" y="182" type="line"/>
+      <point x="211" y="109" type="line"/>
+      <point x="221" y="477" type="line"/>
+      <point x="177" y="415" type="line"/>
+      <point x="278" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-25 12:10:59 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

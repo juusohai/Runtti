@@ -1,8 +1,6 @@
 # Runtti
 
-Short description of Demo Font. Read more about this [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
-
-Runtti is a somewhat slanted display typeface inspired by Carolingian minuscule's and textura's letterforms.
+Runtti is a casual curveless and slightly slanted display typeface inspired by textura's letterforms and contemporary graffiti lettering.
 
 ## Specimen
 
