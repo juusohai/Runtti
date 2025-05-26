@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="599"/>
+  <advance width="562"/>
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaturnedabovecomb" xOffset="186"/>
+    <component base="commaturnedabovecomb" xOffset="169"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

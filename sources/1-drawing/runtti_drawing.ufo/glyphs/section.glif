@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="section" format="2">
-  <advance width="652"/>
+  <advance width="618"/>
   <unicode hex="00A7"/>
   <outline>
-    <component base="sectionbowl" xScale="-1" yScale="-1" xOffset="627" yOffset="640" identifier="C14A647E"/>
-    <component base="sectionbowl" xOffset="25" identifier="AFF1F906"/>
+    <component base="sectionbowl" xScale="-1" yScale="-1" xOffset="592" yOffset="601" identifier="C14A647E"/>
+    <component base="sectionbowl" xOffset="26" identifier="AFF1F906"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

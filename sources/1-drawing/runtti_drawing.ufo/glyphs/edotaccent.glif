@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edotaccent" format="2">
-  <advance width="536"/>
+  <advance width="502"/>
   <unicode hex="0117"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccentcomb" xOffset="140"/>
+    <component base="dotaccentcomb" xOffset="127"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

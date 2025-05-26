@@ -1,31 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.alt" format="2">
-  <advance width="468"/>
-  <anchor x="236" y="600" name="_top"/>
+  <advance width="445"/>
+  <anchor x="225" y="563" name="_top"/>
   <outline>
     <contour>
-      <point x="190" y="633" type="line"/>
-      <point x="222" y="861" type="line"/>
-      <point x="255" y="830" type="line"/>
-      <point x="6" y="824" type="line"/>
-      <point x="58" y="856" type="line"/>
-      <point x="48" y="637" type="line"/>
-      <point x="8" y="680" type="line"/>
-      <point x="225" y="676" type="line"/>
+      <point x="181" y="594" type="line"/>
+      <point x="211" y="808" type="line"/>
+      <point x="242" y="779" type="line"/>
+      <point x="9" y="774" type="line"/>
+      <point x="57" y="804" type="line"/>
+      <point x="48" y="598" type="line"/>
+      <point x="11" y="639" type="line"/>
+      <point x="214" y="635" type="line"/>
     </contour>
     <contour>
-      <point x="390" y="633" type="line"/>
-      <point x="422" y="861" type="line"/>
-      <point x="455" y="830" type="line"/>
-      <point x="206" y="824" type="line"/>
-      <point x="258" y="856" type="line"/>
-      <point x="248" y="637" type="line"/>
-      <point x="208" y="680" type="line"/>
-      <point x="425" y="676" type="line"/>
+      <point x="369" y="594" type="line"/>
+      <point x="399" y="808" type="line"/>
+      <point x="430" y="779" type="line"/>
+      <point x="196" y="774" type="line"/>
+      <point x="245" y="804" type="line"/>
+      <point x="236" y="598" type="line"/>
+      <point x="198" y="639" type="line"/>
+      <point x="402" y="635" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccaron" format="2">
-  <advance width="539"/>
+  <advance width="506"/>
   <unicode hex="010C"/>
   <outline>
     <component base="C"/>
-    <component base="caroncomb" xOffset="151" yOffset="190"/>
+    <component base="caroncomb" xOffset="139" yOffset="179"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acaron" format="2">
-  <advance width="592"/>
+  <advance width="555"/>
   <unicode hex="01CE"/>
   <outline>
     <component base="a"/>
-    <component base="caroncomb" xOffset="125"/>
+    <component base="caroncomb" xOffset="114"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:16 +0000</string>
+    </dict>
+  </lib>
 </glyph>

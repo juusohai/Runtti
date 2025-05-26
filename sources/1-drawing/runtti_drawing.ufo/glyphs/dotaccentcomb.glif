@@ -1,22 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
-  <advance width="288"/>
+  <advance width="276"/>
   <unicode hex="0307"/>
-  <anchor x="133" y="600" name="_top"/>
+  <anchor x="128" y="563" name="_top"/>
   <outline>
     <contour>
-      <point x="206" y="621" type="line"/>
-      <point x="243" y="869" type="line"/>
-      <point x="277" y="836" type="line"/>
-      <point x="6" y="830" type="line"/>
-      <point x="58" y="863" type="line"/>
-      <point x="48" y="625" type="line"/>
-      <point x="8" y="673" type="line"/>
-      <point x="244" y="665" type="line"/>
+      <point x="196" y="583" type="line"/>
+      <point x="231" y="816" type="line"/>
+      <point x="263" y="785" type="line"/>
+      <point x="9" y="779" type="line"/>
+      <point x="57" y="810" type="line"/>
+      <point x="48" y="587" type="line"/>
+      <point x="11" y="632" type="line"/>
+      <point x="232" y="624" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

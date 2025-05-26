@@ -1,36 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
-  <advance width="518"/>
+  <advance width="493"/>
   <unicode hex="030B"/>
-  <anchor x="215" y="600" name="_top"/>
+  <anchor x="205" y="563" name="_top"/>
   <outline>
     <contour>
-      <point x="497" y="831" type="line"/>
-      <point x="305" y="845" type="line"/>
-      <point x="347" y="885" type="line"/>
-      <point x="225" y="637" type="line"/>
-      <point x="214" y="696" type="line"/>
-      <point x="394" y="649" type="line"/>
-      <point x="284" y="608" type="line"/>
-      <point x="493" y="853" type="line"/>
-      <point x="482" y="783" type="line"/>
-      <point x="450" y="875" type="line"/>
+      <point x="470" y="780" type="line"/>
+      <point x="289" y="793" type="line"/>
+      <point x="329" y="831" type="line"/>
+      <point x="214" y="598" type="line"/>
+      <point x="204" y="654" type="line"/>
+      <point x="373" y="609" type="line"/>
+      <point x="270" y="571" type="line"/>
+      <point x="466" y="801" type="line"/>
+      <point x="456" y="735" type="line"/>
+      <point x="426" y="822" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="831" type="line"/>
-      <point x="106" y="845" type="line"/>
-      <point x="148" y="885" type="line"/>
-      <point x="26" y="637" type="line"/>
-      <point x="15" y="696" type="line"/>
-      <point x="195" y="649" type="line"/>
-      <point x="85" y="608" type="line"/>
-      <point x="294" y="853" type="line"/>
-      <point x="283" y="783" type="line"/>
-      <point x="251" y="875" type="line"/>
+      <point x="283" y="780" type="line"/>
+      <point x="103" y="793" type="line"/>
+      <point x="142" y="831" type="line"/>
+      <point x="27" y="598" type="line"/>
+      <point x="17" y="654" type="line"/>
+      <point x="186" y="609" type="line"/>
+      <point x="83" y="571" type="line"/>
+      <point x="279" y="801" type="line"/>
+      <point x="269" y="735" type="line"/>
+      <point x="239" y="822" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

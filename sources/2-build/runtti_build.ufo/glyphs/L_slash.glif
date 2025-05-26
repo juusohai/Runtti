@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="514"/>
+  <advance width="483"/>
   <unicode hex="0141"/>
   <outline>
     <component base="L"/>
     <contour>
-      <point x="13" y="191" type="line"/>
-      <point x="-81" y="224" type="line"/>
-      <point x="234" y="345" type="line"/>
-      <point x="487" y="433" type="line"/>
-      <point x="375" y="348" type="line"/>
-      <point x="324" y="528" type="line"/>
-      <point x="463" y="524" type="line"/>
-      <point x="168" y="415" type="line"/>
-      <point x="-127" y="313" type="line"/>
-      <point x="-46" y="394" type="line"/>
+      <point x="12" y="179" type="line"/>
+      <point x="-76" y="210" type="line"/>
+      <point x="220" y="324" type="line"/>
+      <point x="457" y="407" type="line"/>
+      <point x="352" y="327" type="line"/>
+      <point x="304" y="496" type="line"/>
+      <point x="435" y="492" type="line"/>
+      <point x="158" y="390" type="line"/>
+      <point x="-119" y="294" type="line"/>
+      <point x="-43" y="370" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:17:50 +0000</string>
+    </dict>
+  </lib>
 </glyph>

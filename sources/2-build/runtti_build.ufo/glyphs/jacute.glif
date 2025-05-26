@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jacute" format="2">
-  <advance width="315"/>
+  <advance width="296"/>
   <outline>
     <component base="jdotless"/>
-    <component base="acutecomb" xOffset="40"/>
+    <component base="acutecomb" xOffset="34"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

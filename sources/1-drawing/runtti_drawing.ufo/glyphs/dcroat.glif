@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="615"/>
+  <advance width="578"/>
   <unicode hex="0111"/>
   <outline>
     <component base="d"/>
-    <component base="macroncomb" xOffset="231" yOffset="-29" identifier="570491B5"/>
+    <component base="macroncomb" xOffset="217" yOffset="-27" identifier="570491B5"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:17 +0000</string>
       <key>public.objectLibs</key>
       <dict>
         <key>570491B5</key>

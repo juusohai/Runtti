@@ -1,59 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
-  <advance width="684"/>
+  <advance width="642"/>
   <unicode hex="0052"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="367" y="790" name="top"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="345" y="742" name="top"/>
   <outline>
     <contour>
-      <point x="575" y="552" type="line"/>
-      <point x="224" y="331" type="line"/>
-      <point x="226" y="340" type="line"/>
-      <point x="270" y="192" type="line"/>
-      <point x="240" y="224" type="line"/>
-      <point x="352" y="290" type="line"/>
-      <point x="440" y="345" type="line"/>
-      <point x="690" y="488" type="line"/>
-      <point x="598" y="404" type="line"/>
-      <point x="672" y="724" type="line"/>
-      <point x="755" y="646" type="line"/>
-      <point x="290" y="837" type="line"/>
-      <point x="361" y="838" type="line"/>
-      <point x="181" y="620" type="line"/>
-      <point x="167" y="659" type="line"/>
-      <point x="536" y="576" type="line"/>
-      <point x="452" y="658" type="line"/>
-      <point x="443" y="422" type="line"/>
+      <point x="540" y="518" type="line"/>
+      <point x="210" y="311" type="line"/>
+      <point x="212" y="319" type="line"/>
+      <point x="254" y="180" type="line"/>
+      <point x="225" y="210" type="line"/>
+      <point x="331" y="272" type="line"/>
+      <point x="413" y="324" type="line"/>
+      <point x="648" y="458" type="line"/>
+      <point x="562" y="379" type="line"/>
+      <point x="631" y="680" type="line"/>
+      <point x="709" y="607" type="line"/>
+      <point x="272" y="786" type="line"/>
+      <point x="339" y="787" type="line"/>
+      <point x="170" y="582" type="line"/>
+      <point x="157" y="619" type="line"/>
+      <point x="503" y="541" type="line"/>
+      <point x="424" y="618" type="line"/>
+      <point x="416" y="396" type="line"/>
     </contour>
     <contour>
-      <point x="45" y="-40" type="line"/>
+      <point x="42" y="-38" type="line"/>
       <point x="1" y="0" type="line"/>
-      <point x="297" y="0" type="line"/>
-      <point x="256" y="-40" type="line"/>
-      <point x="285" y="767" type="line"/>
-      <point x="340" y="703" type="line"/>
-      <point x="76" y="835" type="line"/>
-      <point x="141" y="859" type="line"/>
-      <point x="13" y="627" type="line"/>
-      <point x="-20" y="651" type="line"/>
-      <point x="166" y="600" type="line"/>
-      <point x="105" y="690" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="240" y="-38" type="line"/>
+      <point x="268" y="720" type="line"/>
+      <point x="319" y="660" type="line"/>
+      <point x="71" y="784" type="line"/>
+      <point x="132" y="807" type="line"/>
+      <point x="12" y="589" type="line"/>
+      <point x="-19" y="611" type="line"/>
+      <point x="156" y="563" type="line"/>
+      <point x="99" y="648" type="line"/>
     </contour>
     <contour>
-      <point x="366" y="0" type="line"/>
-      <point x="724" y="-3" type="line"/>
-      <point x="650" y="-52" type="line"/>
-      <point x="669" y="242" type="line"/>
-      <point x="752" y="197" type="line"/>
-      <point x="497" y="177" type="line"/>
-      <point x="611" y="142" type="line"/>
-      <point x="475" y="398" type="line"/>
-      <point x="309" y="325" type="line"/>
-      <point x="448" y="-53" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="680" y="-3" type="line"/>
+      <point x="610" y="-49" type="line"/>
+      <point x="628" y="227" type="line"/>
+      <point x="706" y="185" type="line"/>
+      <point x="467" y="166" type="line"/>
+      <point x="574" y="133" type="line"/>
+      <point x="446" y="374" type="line"/>
+      <point x="290" y="305" type="line"/>
+      <point x="421" y="-50" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:17:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>P</string>
     </dict>

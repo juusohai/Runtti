@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <advance width="263"/>
-  <anchor x="-74" y="800" name="_top"/>
+  <advance width="253"/>
+  <anchor x="-69" y="751" name="_top"/>
   <outline>
-    <component base="commaaccentcomb" yOffset="916"/>
+    <component base="commaaccentcomb" yOffset="860"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-26 19:18:12 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>commaaccentcomb</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

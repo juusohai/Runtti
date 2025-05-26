@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
-  <advance width="655"/>
+  <advance width="613"/>
   <unicode hex="0075"/>
-  <anchor x="537" y="0" name="ogonek"/>
-  <anchor x="358" y="600" name="top"/>
+  <anchor x="503" y="0" name="ogonek"/>
+  <anchor x="335" y="563" name="top"/>
   <outline>
     <contour>
-      <point x="243" y="655" type="line"/>
-      <point x="306" y="600" type="line"/>
-      <point x="-23" y="603" type="line"/>
-      <point x="51" y="652" type="line"/>
-      <point x="32" y="358" type="line"/>
-      <point x="-51" y="411" type="line"/>
-      <point x="215" y="449" type="line"/>
-      <point x="144" y="491" type="line"/>
-      <point x="14" y="29" type="line"/>
-      <point x="-37" y="118" type="line"/>
-      <point x="375" y="-41" type="line"/>
-      <point x="303" y="-40" type="line"/>
-      <point x="483" y="177" type="line"/>
-      <point x="498" y="129" type="line"/>
-      <point x="187" y="188" type="line"/>
-      <point x="244" y="134" type="line"/>
-      <point x="311" y="636" type="line"/>
-      <point x="357" y="515" type="line"/>
+      <point x="227" y="615" type="line"/>
+      <point x="286" y="563" type="line"/>
+      <point x="-23" y="566" type="line"/>
+      <point x="47" y="612" type="line"/>
+      <point x="29" y="336" type="line"/>
+      <point x="-49" y="386" type="line"/>
+      <point x="201" y="422" type="line"/>
+      <point x="134" y="461" type="line"/>
+      <point x="12" y="27" type="line"/>
+      <point x="-36" y="111" type="line"/>
+      <point x="351" y="-38" type="line"/>
+      <point x="284" y="-38" type="line"/>
+      <point x="453" y="166" type="line"/>
+      <point x="467" y="121" type="line"/>
+      <point x="175" y="177" type="line"/>
+      <point x="228" y="126" type="line"/>
+      <point x="291" y="597" type="line"/>
+      <point x="334" y="484" type="line"/>
     </contour>
     <contour>
-      <point x="404" y="663" type="line"/>
-      <point x="374" y="-5" type="line"/>
-      <point x="339" y="92" type="line"/>
-      <point x="603" y="-40" type="line"/>
-      <point x="538" y="-64" type="line"/>
-      <point x="666" y="168" type="line"/>
-      <point x="699" y="129" type="line"/>
-      <point x="513" y="180" type="line"/>
-      <point x="550" y="129" type="line"/>
-      <point x="601" y="663" type="line"/>
-      <point x="643" y="600" type="line"/>
-      <point x="357" y="600" type="line"/>
+      <point x="378" y="623" type="line"/>
+      <point x="350" y="-5" type="line"/>
+      <point x="317" y="86" type="line"/>
+      <point x="565" y="-38" type="line"/>
+      <point x="504" y="-60" type="line"/>
+      <point x="624" y="158" type="line"/>
+      <point x="655" y="121" type="line"/>
+      <point x="481" y="169" type="line"/>
+      <point x="515" y="121" type="line"/>
+      <point x="563" y="623" type="line"/>
+      <point x="603" y="563" type="line"/>
+      <point x="334" y="563" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-25 12:07:23 +0000</string>
+      <string>2025-05-26 19:18:07 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
