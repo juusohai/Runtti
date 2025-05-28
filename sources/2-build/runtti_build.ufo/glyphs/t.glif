@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="361"/>
+  <advance width="367"/>
   <unicode hex="0074"/>
   <anchor x="167" y="0" name="bottom"/>
   <anchor x="192" y="751" name="top"/>
@@ -39,7 +39,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:17:50 +0000</string>
+      <string>2025-05-28 13:11:00 +0000</string>
     </dict>
   </lib>
 </glyph>

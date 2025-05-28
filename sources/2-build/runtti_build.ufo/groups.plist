@@ -327,6 +327,7 @@
       <string>omacron</string>
       <string>oslash</string>
       <string>otilde</string>
+      <string>eth</string>
       <string>eturned</string>
     </array>
     <key>public.kern1.p</key>
@@ -350,6 +351,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
     </array>
     <key>public.kern1.r</key>
     <array>
@@ -638,6 +641,10 @@
       <string>colon</string>
       <string>semicolon</string>
     </array>
+    <key>public.kern2.eth</key>
+    <array>
+      <string>eth</string>
+    </array>
     <key>public.kern2.h</key>
     <array>
       <string>b</string>
@@ -733,6 +740,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
     </array>
     <key>public.kern2.s</key>
     <array>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="782"/>
+  <advance width="779"/>
   <unicode hex="0132"/>
   <anchor x="581" y="742" name="top"/>
   <outline>
@@ -33,7 +33,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:17:50 +0000</string>
+      <string>2025-05-28 14:47:17 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

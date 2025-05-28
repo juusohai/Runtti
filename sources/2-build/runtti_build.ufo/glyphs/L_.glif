@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="482"/>
+  <advance width="479"/>
   <unicode hex="004C"/>
-  <anchor x="234" y="0" name="bottom"/>
-  <anchor x="284" y="742" name="top"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="281" y="742" name="top"/>
   <outline>
     <contour>
-      <point x="247" y="640" type="line"/>
-      <point x="192" y="536" type="line"/>
-      <point x="308" y="601" type="line"/>
-      <point x="222" y="581" type="line"/>
-      <point x="374" y="560" type="line"/>
-      <point x="330" y="549" type="line"/>
-      <point x="394" y="818" type="line"/>
-      <point x="460" y="742" type="line"/>
-      <point x="201" y="749" type="line"/>
-      <point x="378" y="808" type="line"/>
-      <point x="-69" y="593" type="line"/>
-      <point x="80" y="777" type="line"/>
-      <point x="22" y="-42" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="522" y="-2" type="line"/>
-      <point x="450" y="-49" type="line"/>
-      <point x="468" y="227" type="line"/>
-      <point x="548" y="184" type="line"/>
-      <point x="176" y="158" type="line"/>
-      <point x="215" y="123" type="line"/>
+      <point x="244" y="640" type="line"/>
+      <point x="189" y="536" type="line"/>
+      <point x="305" y="601" type="line"/>
+      <point x="219" y="581" type="line"/>
+      <point x="371" y="560" type="line"/>
+      <point x="327" y="549" type="line"/>
+      <point x="391" y="818" type="line"/>
+      <point x="457" y="742" type="line"/>
+      <point x="198" y="749" type="line"/>
+      <point x="375" y="808" type="line"/>
+      <point x="-72" y="593" type="line"/>
+      <point x="77" y="777" type="line"/>
+      <point x="19" y="-42" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="519" y="-2" type="line"/>
+      <point x="447" y="-49" type="line"/>
+      <point x="465" y="227" type="line"/>
+      <point x="545" y="184" type="line"/>
+      <point x="173" y="158" type="line"/>
+      <point x="212" y="123" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:07 +0000</string>
+      <string>2025-05-28 14:43:01 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=|J</string>
+      <string>E</string>
     </dict>
   </lib>
 </glyph>

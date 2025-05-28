@@ -4,12 +4,12 @@
   <unicode hex="1EBC"/>
   <outline>
     <component base="E"/>
-    <component base="tildecomb" xOffset="78" yOffset="179"/>
+    <component base="tildecomb" xOffset="75" yOffset="179"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:13 +0000</string>
+      <string>2025-05-28 13:50:30 +0000</string>
     </dict>
   </lib>
 </glyph>
