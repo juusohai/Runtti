@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcaron" format="2">
-  <advance width="523"/>
+  <advance width="535"/>
   <unicode hex="0164"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb" xOffset="82" yOffset="179"/>
+    <component base="caroncomb" xOffset="88" yOffset="179"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:15 +0000</string>
+      <string>2025-06-09 12:43:18 +0000</string>
     </dict>
   </lib>
 </glyph>

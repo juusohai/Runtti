@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Racute" format="2">
-  <advance width="643"/>
+  <advance width="655"/>
   <unicode hex="0154"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb" xOffset="219" yOffset="179"/>
+    <component base="acutecomb" xOffset="225" yOffset="179"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:08 +0000</string>
+      <string>2025-06-09 12:43:15 +0000</string>
     </dict>
   </lib>
 </glyph>

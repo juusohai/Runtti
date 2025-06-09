@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Imacron" format="2">
-  <advance width="306"/>
+  <advance width="318"/>
   <unicode hex="012A"/>
   <outline>
     <component base="I"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:17:50 +0000</string>
+      <string>2025-06-09 12:43:15 +0000</string>
       <key>public.objectLibs</key>
       <dict>
         <key>8A423D46</key>

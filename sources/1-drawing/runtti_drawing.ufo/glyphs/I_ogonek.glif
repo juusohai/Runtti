@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="306"/>
+  <advance width="318"/>
   <unicode hex="012E"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.alt" xOffset="16"/>
+    <component base="ogonekcomb.alt" xOffset="22"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:08 +0000</string>
+      <string>2025-06-09 12:43:15 +0000</string>
     </dict>
   </lib>
 </glyph>
