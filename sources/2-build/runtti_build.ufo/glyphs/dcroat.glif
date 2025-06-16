@@ -4,12 +4,12 @@
   <unicode hex="0111"/>
   <outline>
     <component base="d"/>
-    <component base="macroncomb" xOffset="217" yOffset="-27" identifier="570491B5"/>
+    <component base="macroncomb" xOffset="222" yOffset="-35" identifier="570491B5"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:17 +0000</string>
+      <string>2025-06-16 15:19:54 +0000</string>
       <key>public.objectLibs</key>
       <dict>
         <key>570491B5</key>

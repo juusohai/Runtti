@@ -1,57 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown" format="2">
-  <advance width="452"/>
+  <advance width="462"/>
   <unicode hex="00BF"/>
   <outline>
     <contour>
-      <point x="402" y="367" type="line"/>
-      <point x="419" y="600" type="line"/>
-      <point x="455" y="569" type="line"/>
-      <point x="200" y="563" type="line"/>
-      <point x="249" y="594" type="line"/>
-      <point x="240" y="371" type="line"/>
-      <point x="202" y="416" type="line"/>
-      <point x="424" y="412" type="line"/>
+      <point x="407" y="367" type="line"/>
+      <point x="424" y="600" type="line"/>
+      <point x="460" y="569" type="line"/>
+      <point x="205" y="563" type="line"/>
+      <point x="254" y="594" type="line"/>
+      <point x="245" y="371" type="line"/>
+      <point x="207" y="416" type="line"/>
+      <point x="429" y="412" type="line"/>
     </contour>
     <contour>
-      <point x="170" y="-100" type="line"/>
-      <point x="196" y="159" type="line"/>
-      <point x="139" y="59" type="line"/>
-      <point x="251" y="127" type="line"/>
-      <point x="128" y="100" type="line"/>
-      <point x="395" y="78" type="line"/>
-      <point x="253" y="51" type="line"/>
-      <point x="441" y="166" type="line"/>
-      <point x="388" y="80" type="line"/>
-      <point x="397" y="362" type="line"/>
-      <point x="438" y="338" type="line"/>
-      <point x="207" y="342" type="line"/>
-      <point x="248" y="368" type="line"/>
-      <point x="229" y="171" type="line"/>
-      <point x="262" y="247" type="line"/>
-      <point x="195" y="201" type="line"/>
-      <point x="280" y="212" type="line"/>
-      <point x="52" y="248" type="line"/>
-      <point x="235" y="274" type="line"/>
-      <point x="-47" y="90" type="line"/>
-      <point x="43" y="265" type="line"/>
-      <point x="-5" y="-192" type="line"/>
-      <point x="-39" y="-69" type="line"/>
-      <point x="251" y="-239" type="line"/>
-      <point x="142" y="-227" type="line"/>
-      <point x="484" y="-210" type="line"/>
-      <point x="443" y="-250" type="line"/>
-      <point x="416" y="23" type="line"/>
-      <point x="445" y="-27" type="line"/>
-      <point x="133" y="-63" type="line"/>
-      <point x="258" y="-69" type="line"/>
-      <point x="153" y="16" type="line"/>
+      <point x="175" y="-100" type="line"/>
+      <point x="201" y="159" type="line"/>
+      <point x="144" y="59" type="line"/>
+      <point x="256" y="127" type="line"/>
+      <point x="133" y="100" type="line"/>
+      <point x="400" y="78" type="line"/>
+      <point x="258" y="51" type="line"/>
+      <point x="446" y="166" type="line"/>
+      <point x="393" y="80" type="line"/>
+      <point x="402" y="362" type="line"/>
+      <point x="443" y="338" type="line"/>
+      <point x="212" y="342" type="line"/>
+      <point x="253" y="368" type="line"/>
+      <point x="234" y="171" type="line"/>
+      <point x="267" y="247" type="line"/>
+      <point x="200" y="201" type="line"/>
+      <point x="285" y="212" type="line"/>
+      <point x="57" y="248" type="line"/>
+      <point x="240" y="274" type="line"/>
+      <point x="-42" y="90" type="line"/>
+      <point x="48" y="265" type="line"/>
+      <point x="0" y="-192" type="line"/>
+      <point x="-34" y="-69" type="line"/>
+      <point x="256" y="-239" type="line"/>
+      <point x="147" y="-227" type="line"/>
+      <point x="489" y="-210" type="line"/>
+      <point x="448" y="-250" type="line"/>
+      <point x="421" y="23" type="line"/>
+      <point x="450" y="-27" type="line"/>
+      <point x="138" y="-63" type="line"/>
+      <point x="263" y="-69" type="line"/>
+      <point x="158" y="16" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-28 11:26:43 +0000</string>
+      <string>2025-06-16 16:11:15 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|question</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

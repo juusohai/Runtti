@@ -4,12 +4,27 @@
   <unicode hex="0302"/>
   <anchor x="175" y="563" name="_top"/>
   <outline>
-    <component base="caroncomb" xScale="-1" yScale="-1" xOffset="350" yOffset="1409"/>
+    <contour>
+      <point x="228" y="805" type="line"/>
+      <point x="258" y="789" type="line"/>
+      <point x="90" y="789" type="line"/>
+      <point x="124" y="807" type="line"/>
+      <point x="25" y="604" type="line"/>
+      <point x="19" y="668" type="line"/>
+      <point x="165" y="607" type="line"/>
+      <point x="74" y="577" type="line"/>
+      <point x="208" y="742" type="line"/>
+      <point x="143" y="742" type="line"/>
+      <point x="275" y="577" type="line"/>
+      <point x="184" y="607" type="line"/>
+      <point x="330" y="668" type="line"/>
+      <point x="324" y="604" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-28 11:23:24 +0000</string>
+      <string>2025-06-16 16:18:43 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

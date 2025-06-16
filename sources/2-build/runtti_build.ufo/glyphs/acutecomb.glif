@@ -2,7 +2,7 @@
 <glyph name="acutecomb" format="2">
   <advance width="294"/>
   <unicode hex="0301"/>
-  <anchor x="126" y="563" name="_top"/>
+  <anchor x="119" y="563" name="_top"/>
   <outline>
     <contour>
       <point x="267" y="778" type="line"/>
@@ -20,7 +20,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-26 19:18:07 +0000</string>
+      <string>2025-06-16 16:16:51 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

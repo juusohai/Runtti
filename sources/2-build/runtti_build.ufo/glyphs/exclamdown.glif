@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown" format="2">
-  <advance width="302"/>
+  <advance width="317"/>
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="252" y="367" type="line"/>
-      <point x="269" y="600" type="line"/>
-      <point x="304" y="569" type="line"/>
-      <point x="50" y="563" type="line"/>
-      <point x="99" y="594" type="line"/>
-      <point x="89" y="371" type="line"/>
-      <point x="52" y="416" type="line"/>
-      <point x="273" y="412" type="line"/>
+      <point x="257" y="367" type="line"/>
+      <point x="274" y="600" type="line"/>
+      <point x="309" y="569" type="line"/>
+      <point x="55" y="563" type="line"/>
+      <point x="104" y="594" type="line"/>
+      <point x="94" y="371" type="line"/>
+      <point x="57" y="416" type="line"/>
+      <point x="278" y="412" type="line"/>
     </contour>
     <contour>
-      <point x="285" y="-207" type="line"/>
-      <point x="234" y="-305" type="line"/>
-      <point x="243" y="362" type="line"/>
-      <point x="283" y="338" type="line"/>
-      <point x="52" y="341" type="line"/>
-      <point x="99" y="377" type="line"/>
-      <point x="26" y="-288" type="line"/>
-      <point x="-13" y="-207" type="line"/>
+      <point x="290" y="-207" type="line"/>
+      <point x="239" y="-305" type="line"/>
+      <point x="248" y="362" type="line"/>
+      <point x="288" y="338" type="line"/>
+      <point x="57" y="341" type="line"/>
+      <point x="104" y="377" type="line"/>
+      <point x="31" y="-288" type="line"/>
+      <point x="-8" y="-207" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-28 11:26:43 +0000</string>
+      <string>2025-06-16 16:11:15 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|exclam</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
