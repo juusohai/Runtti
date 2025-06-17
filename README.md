@@ -1,10 +1,11 @@
 # Runtti
 
-Runtti is a casual curveless and slightly slanted display typeface inspired by textura's letterforms and contemporary graffiti lettering.
+Runtti is a curveless display typeface with a slight slant.
 
 ## Specimen
 
-![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/Unified-Font-Repository/master/documentation/images/Demo-Italic-v1.001-specimen-001.png)
+![Runtti-v1.000-specimen-002](https://github.com/juusohai/Runtti/master/documentation/images/Runtti-v1.000-specimen002.png)
+![Runtti-v1.000-specimen-005](https://github.com/juusohai/Runtti/master/documentation/images/Runtti-v1.000-specimen005.png)
 
 ## License
 
