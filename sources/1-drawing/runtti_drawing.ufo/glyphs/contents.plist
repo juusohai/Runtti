@@ -506,6 +506,8 @@
     <string>questiondown.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
+    <key>quotedbl.alt</key>
+    <string>quotedbl.alt.glif</string>
     <key>quotedblbase</key>
     <string>quotedblbase.glif</string>
     <key>quotedblleft</key>
@@ -520,6 +522,8 @@
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>quotesingle.alt</key>
+    <string>quotesingle.alt.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>racute</key>

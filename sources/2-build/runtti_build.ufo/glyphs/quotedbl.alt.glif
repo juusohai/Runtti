@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotesingle" format="2">
-  <advance width="238"/>
-  <unicode hex="0027"/>
+<glyph name="quotedbl.alt" format="2">
+  <advance width="421"/>
   <outline>
-    <component base="quoteright"/>
+    <component base="quotesingle.alt"/>
+    <component base="quotesingle.alt" xOffset="192"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-17 14:31:51 +0000</string>
+      <string>2025-06-17 14:30:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>quoteright</string>
+      <string>quotesingle.alt</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>quoteright</string>
+      <string>quotesingle.alt</string>
     </dict>
   </lib>
 </glyph>

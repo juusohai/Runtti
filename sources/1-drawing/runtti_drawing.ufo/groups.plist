@@ -350,8 +350,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
-      <string>quotedbl</string>
-      <string>quotesingle</string>
+      <string>quotedbl.alt</string>
+      <string>quotesingle.alt</string>
     </array>
     <key>public.kern1.r</key>
     <array>
@@ -739,8 +739,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
-      <string>quotedbl</string>
-      <string>quotesingle</string>
+      <string>quotedbl.alt</string>
+      <string>quotesingle.alt</string>
     </array>
     <key>public.kern2.s</key>
     <array>
