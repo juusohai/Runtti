@@ -350,6 +350,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
       <string>quotedbl.alt</string>
       <string>quotesingle.alt</string>
     </array>
@@ -739,6 +741,8 @@
     <array>
       <string>quotedblright</string>
       <string>quoteright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
       <string>quotedbl.alt</string>
       <string>quotesingle.alt</string>
     </array>
