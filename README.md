@@ -4,8 +4,8 @@ Runtti is a curveless display typeface with a slight slant.
 
 ## Specimen
 
-![Runtti-v1.000-specimen-002](https://github.com/juusohai/Runtti/master/documentation/images/Runtti-v1.000-specimen002.png)
-![Runtti-v1.000-specimen-005](https://github.com/juusohai/Runtti/master/documentation/images/Runtti-v1.000-specimen005.png)
+![Runtti-v1.000-specimen-002](https://github.com/juusohai/Runtti/blob/master/documentation/images/Runtti-v1.000-specimen002.png)
+![Runtti-v1.000-specimen-005](https://github.com/juusohai/Runtti/blob/master/documentation/images/Runtti-v1.000-specimen005.png)
 
 ## License
 
